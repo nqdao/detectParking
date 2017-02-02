@@ -1,0 +1,6 @@
+# Ignore everything in this directory
+*
+# Except these files
+!.gitignore
+!parkinglot_1_480p.mp4
+!parkinglot_1.txt
